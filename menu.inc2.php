@@ -19,13 +19,5 @@
       <p>+591 (2) 244-1422 (FAX)</p>
       <p>https://informatica.edu.bo/</p>
     </div>
-    <div id ="support" >
-      <form action="login.php" method="POST">
-        <p>
-        Username: <br/><input type="text" name="username"><br/>
-        Password: <br/><input type="text" name="password"><br/>
-        <input type="submit" value="iniciar sesion">
-        </p>
-      </form>
-    </div>
+    
   </div>
